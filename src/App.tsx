@@ -1,5 +1,4 @@
 import './App.css';
-import { Button } from 'ordatic-ui'
 
 function App() {
   return (
@@ -82,7 +81,6 @@ function App() {
           </div>
         </div>
     </div>
-        <Button label="Sign in" />
     </div>
   );
 }
